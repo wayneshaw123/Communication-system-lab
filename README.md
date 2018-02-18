@@ -36,7 +36,7 @@ static int acksRx = 0;      // count of ACKs received
 static int naksRx = 0;      // count of NAKs received
 static int badFrames = 0;   // count of bad frames received
 static int goodFrames = 0;  // count of good frames received
-static int timeouts = 0;    // count of timeouts
+static int timeouts = 0;    // count of timeouts1
 static long timerRx;        // time value for timeouts at receiver
 static long connectTime;    // time when connection established
 
